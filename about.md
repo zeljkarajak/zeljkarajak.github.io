@@ -13,7 +13,7 @@ Ovo je moj [facebook](https://www.facebook.com/zeljka.rajak)
 
 A ovo je jedna od mojih slika:
 
-![alt text](/images/myPic.jpg "Da da to sam ja")
+![alt text]![:scale 50%](/images/myPic.jpg "Da da to sam ja")
 
 
 ## Radim
