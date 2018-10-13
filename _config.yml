@@ -1,19 +1,19 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
-baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+title: Željka Rajak
+email: semzeljka@gmail.com
+description: Dnevna inspiracija
+baseurl: "/zeljkarajak.github.io"
+url: "http://zeljkarajak.github.io"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
+  name     : 'Željka Rajak'
+  email    : semzeljka@gmail.com
+  url      : http://zeljkarajak.github.io
+  facebook : http://facebook.com/zeljka.rajak
   twitter  : http://twitter.com/nandomoreirame
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
+github: https://github.com/zeljkarajak
+disqus_shortname: "zeljkarajak"
 google_analytics: UA-52446115-1
 
 paginate: 2
