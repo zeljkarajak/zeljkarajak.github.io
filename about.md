@@ -9,6 +9,11 @@ slug: about
 
 Ovo je moj [facebook](https://www.facebook.com/zeljka.rajak) 
 
+A ovo je jedna od mojih slika:
+
+![alt text](image/myPic.jpg "Da da to sam ja")
+
+
 ## Radim
 
 Inace me ima svukuda
