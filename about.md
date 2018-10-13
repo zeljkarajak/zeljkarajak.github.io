@@ -5,12 +5,12 @@ permalink: /about/
 slug: about
 ---
 
-#Hej cao 
+# Hej cao 
 
 Ovo je moj [facebook](https://www.facebook.com/zeljka.rajak) 
 
-##Radim
+## Radim
 
 Inace me ima svukuda
--Situla
--DRPD
+- Situla
+- DRPD
