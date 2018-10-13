@@ -9,7 +9,7 @@ slug: about
 
 Ovo je moj [facebook](https://www.facebook.com/zeljka.rajak) 
 
-![:scale 80%](/images/test.png "Da da to sam ja")
+![:scale 80%](/images/test.png =150x50)
 
 A ovo je jedna od mojih slika:
 
