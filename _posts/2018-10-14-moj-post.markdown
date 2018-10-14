@@ -5,8 +5,10 @@ date:   2018-10-14 00:08:08
 categories: jekyll update
 comments: true
 ---
-Cao, moj prvi post je moja slika
+Cao, moj prvi post je moja slika.
+Moje računalniške spretnosti so wauuu :-)
 
-![:scale 80%](/images/test.png)
+
+![:scale 30%](/images/test.png)
 
 Zato sto ja volim sebe
